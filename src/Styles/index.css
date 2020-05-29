@@ -1,0 +1,455 @@
+#Header{
+    background-color: #f5f8fa;
+      border-bottom: 1px solid #cbd6e2;
+      color: black;
+  }
+ #dropdownlist a{
+  color: black;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+
+#list {
+  margin-right: 70px;
+  color:white;
+}
+
+#list a {
+  background-color: #ff7a59;
+}
+
+
+#list2 a {
+  background-color: white;
+  border: 1px solid #ff7a59;
+  color:#ff7a59;
+}
+
+#covid {
+  margin: 0px,57.5px;
+  padding: 10px,32px;
+  background-color: #425b76;
+  color:white
+}
+
+#covid p {
+  padding: 0px,20px;
+  color:white;
+  font-size:18px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin:0px 150px;
+  padding: 20px;
+
+}
+
+#container{
+  background-image: url(../assets/images.jpeg);
+  margin: 0px;
+  padding: 0px;
+}
+
+#image {
+  margin-top:200px;
+}
+
+#powerful{
+  color:#33475B;
+  font-size:32px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin:100px 0px 0px;
+  font-weight:bold;
+  padding-left: 70px;
+}
+
+
+
+#HubSpot{
+  color:#33475B;
+  font-size:18px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.row .new2 h4{
+  color:#33475B;
+  font-size:18px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-top:-22px;
+}
+
+.row .new2 p{
+  color:#33475B;
+  font-size:12px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  padding-left: 20px;
+}
+
+.row .new2 #feature {
+  margin-top:80px;
+  color:#33475B;
+  font-size:12px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  padding-left: 20px;
+}
+
+.row .new2 #orderlist {
+   margin-top:20px;
+  color:#33475B;
+  font-size:12px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  padding-left: 20px;
+}
+
+.row .new2 #build1{
+    text-align: center;
+    border-radius: .1875rem;
+    transition: .3s ease-in-out;
+    display: inline-block;
+    border: 0;
+    font-weight: 600;
+    background-color: #ff7a59;
+    color: #fff;
+    font-size: .9375rem;
+    min-width: 8.555rem;
+    margin-left: 120px;
+    margin-bottom: 50px
+}
+
+.row #main{
+  margin:100px 0px 0px;
+  padding-left: 60px;
+}
+.row #main1{
+  margin:100px 0px 0px;
+  padding-right: 70px;
+}
+
+#cardNew2{
+  margin-left:50px;
+  padding-right:20px;
+}
+
+#cardNew3{
+  margin-right:60px;
+  padding-right:20px;
+}
+
+#cardNEw1{
+  padding-right:20px;
+  margin-bottom: 50px;
+}
+
+.App #App1{
+  text-align: center;
+  max-width: 710px;
+  margin-left:215px;
+  margin-right:215px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding:32px,32px;
+  padding-top:30px;
+  font-size:32px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.App #App2 {
+  text-align: center;
+   max-width: 710px;
+  margin-left:215px;
+  margin-right:215px;
+  margin-top:30px;
+  margin-bottom:30px;
+  padding:32px,32px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 18px;
+}
+.App{
+  background-color: #7FB3D5
+}
+
+.App #companyNew {
+  margin-left: 160px;
+}
+
+.clients h2 {
+  margin-left:100px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 40px;
+
+}
+
+
+.clients p {
+  margin-left:100px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size: 18px;
+   padding-right: 100px;
+
+}
+
+.App #benefitsNew{
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 48px;
+}
+
+.App p{
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 18px;
+}
+
+.clients #imageNew2 {
+  margin-top:50px;
+}
+
+.footer-banner {
+    padding-top:20px;
+  height: 15vh;
+  background-color:  #1a1a1a !important;
+    padding-bottom:100px; 
+    margin-bottom: -10px;
+}
+
+.footer-icon {
+    width: 4%;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.custom-container {
+    padding: 0 6% !important;
+}
+
+.white-font {
+  color: #ffffff !important;
+}
+.footer-content {
+    color: gray;
+    font-size: 14px;
+}
+
+.row  h6{
+ margin-left:100px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 20px;
+   color:white;
+
+}
+#support  p{
+ margin-left:100px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 15px;
+   color: white;
+}
+
+.support2 {
+  background-color:black;
+  margin-bottom:-20px;
+}
+
+@media screen and (max-width: 640px) {
+  #covid {
+  margin: 20px,20px;
+  padding: 5px,20px;
+  background-color: #425b76;
+  color:white
+}
+
+#covid p {
+  padding: 0px,5px;
+  color:white;
+  font-size:17px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin:0px 50px;
+  padding: 10px;
+
+}
+#container{
+  background-image: url(../assets/garage.svg);
+}
+#image {
+  margin-top:200px;
+}
+
+#powerful{
+  color:#33475B;
+  font-size:24px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin:100px 0px 0px;
+  font-weight:bold;
+  padding-left: 20px;
+}
+#HubSpot{
+  color:#33475B;
+  font-size:14px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-weight:bold;
+}
+.row #main{
+  margin:50px 0px 0px;
+  padding-left: 20px;
+   padding-right: 20px;
+}
+.row #main1{
+  margin:20px 0px 0px;
+  padding-right:20px;
+  padding-left:20px;
+}
+#cardNEw1{
+   margin:20px 0px 0px;
+  padding-right:20px;
+  padding-left:20px;
+}
+.row .new2 p {
+    color: #33475B;
+    font-size: 12px;
+    font-family: AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#cardNew2{
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left:10px;
+  padding-right:20px;
+  padding-left:20px;
+}
+#cardNew4{
+  margin-top:-15px;
+}
+#cardNew3{
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left:10px;
+  padding-right:20px;
+  padding-left:20px;
+}
+
+.App #App1{
+  text-align: center;
+  margin-left:45px;
+  margin-right:45px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding:12px,12px;
+  padding-top:15px;
+  font-size:24px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.App #App2 {
+  text-align: center;
+  margin-left:45px;
+  margin-right:45px;
+  margin-top:30px;
+  margin-bottom:30px;
+  padding:12px,12px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 14px;
+}
+.App #companyNew {
+  margin-left: 85px;
+}
+.clients h2 {
+  margin-left:85px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 24px;
+
+}
+
+
+.clients p {
+  margin-left:25px;
+  margin-right:-45px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size: 18px;
+}
+
+.clients #imageNew8 img{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.clients h2 {
+  margin-left:50px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 30px;
+
+}
+.clients p {
+  margin-left:50px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size: 18px;
+   padding-right: 100px;
+
+}
+.row  h6{
+ margin-left:60px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 20px;
+   color:white;
+
+}
+#support  p{
+ margin-left:60px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+   font-size: 15px;
+   color: white;
+}
+
+.footer-banner {
+    padding-top:10px;
+    height: 40vh;
+    background-color:  #1a1a1a !important;
+    padding-bottom:100px; 
+}
+
+
+}
+
+#HubSpot nav{
+  background-color:#f5f8fa;
+  color:black;
+}
+
+#HubSpot a{
+  color:black;
+  padding-right:60px;
+  font-family:AvenirNext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+}
+
+#HubSpot img {
+  margin-top:10px;
+  margin-left:10px;
+}
+
+#HubSpot #sidenav1{
+  margin-right:-10px;
+}
